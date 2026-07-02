@@ -1,4 +1,4 @@
-DAY 1 NOTES
+# DAY 1 NOTES
 
 1. What is DSA?
 - Data Structures + Algorithms
@@ -10,3 +10,4 @@ DAY 1 NOTES
 
 3. Important idea
 - Avoid nested loops when possible
+

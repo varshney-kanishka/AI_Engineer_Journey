@@ -34,3 +34,32 @@ Data Structures and Algorithms
 1. Count Digits
 2. Reverse Number
 3. Palindrome Number
+
+
+# Day 3 Notes
+
+## Functions
+- What is a function?
+- Syntax of def
+- Parameters
+- Arguments
+- Return statement
+
+## Lists
+- Creating a list
+- Indexing
+- Slicing
+- append()
+- insert()
+- remove()
+- pop()
+- sort()
+- reverse()
+- len()
+
+## Arrays
+- Sum
+- Largest
+- Smallest
+- Average
+- Second Largest
